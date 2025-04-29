@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Anouar 👋
 
-<!--
-**BENYEKHLEF-Anouar/BENYEKHLEF-Anouar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer | Graphic Designer | Cybersecurity Enthusiast 🎨🔐
 
-Here are some ideas to get you started:
+🌍 Passionate about tech, creativity, and problem-solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Building sleek & modern web apps with Next.js, React, and TailwindCSS ⚡
+
+🔹 Designing eye-catching visuals with Photoshop & Illustrator 🎨
+
+🔹 Exploring Cloud Computing & Cybersecurity ☁️🔒
+
+📚 Always learning, always growing! Currently diving into advanced full-stack development and mastering cloud technologies.
+
+📬 Let’s connect! Check out my projects & feel free to reach out. 😃✨
+
+---
+
+🌱 Currently learning **React**.
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+ 
+---
