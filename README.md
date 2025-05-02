@@ -34,9 +34,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benyekhlef-anouar&show_icons=true&locale=en" alt="benyekhlef-anouar" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benyekhlef-anouar&" alt="benyekhlef-anouar" /></p>
-
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
