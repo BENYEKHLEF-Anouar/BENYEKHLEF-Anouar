@@ -33,8 +33,7 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benyekhlef-anouar&show_icons=true&locale=en" alt="benyekhlef-anouar" /></p>
-![Profile views](https://komarev.com/ghpvc/?username=benyekhlef-anouar&color=blue)
-
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=benyekhlef-anouar.benyekhlef-anouar)
 
 ---
 
