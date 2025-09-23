@@ -28,7 +28,6 @@
 <a href="https://discord.com/users/anouar_dienekes" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
 </a> 
-&nbsp; <strong>Discord:</strong> anouar_dienekes
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
