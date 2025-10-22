@@ -19,7 +19,7 @@
 
 ---
 
-🌱 Currently learning **React**.
+🌱 Currently learning **React** & **Laravel**.
 
 ---
 
